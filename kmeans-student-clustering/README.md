@@ -7,8 +7,7 @@ attendance.
 from modeling. No missing values.
 
 **Approach:** *k* chosen via elbow method (WCSS) + silhouette score for each feature pairing, rather
-than picked arbitrarily. Clustered on (theory, attendance), (lab, attendance), and a bonus clustering on
-all 3 features together, visualized with PCA.
+than picked arbitrarily. Clustered on (theory, attendance), (lab, attendance)
 
 **Results:**
 
