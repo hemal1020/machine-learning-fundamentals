@@ -34,4 +34,4 @@ ml-fundamentals-practice/
 Before combining multiple models into the Hard Voting Ensemble used in my thesis (Phishing SMS Detection in Bangladeshi Mobile Banking), I practiced each algorithm individually to understand its assumptions, strengths, and limitations — for example, how regularization affects Logistic Regression, or how the choice of kernel changes an SVM's decision boundary.
 
 ## Related
-- [Phishing SMS Detector (Thesis Project)](https://github.com/hemal1020/phishing-sms-detector-bd) — where these fundamentals were applied in a real ensemble system
+- [Phishing SMS Detector (Thesis Project)](https://github.com/hemal1020/Phishing-SMS-Detection-in-Bangladeshi-Mobile-Banking-System.git) — where these fundamentals were applied in a real ensemble system
