@@ -16,7 +16,7 @@ all 3 features together, visualized with PCA.
 |---|---|---|
 | Theory vs Attendance | 3 | 0.672 |
 | Lab vs Attendance | 3 | 0.681 |
-| All 3 features (PCA-visualized) | 3 | 0.676 |
+
 
 All three consistently resolve to the same 3-group structure: a high-performing group, a mid group, and a
 low group, holding across theory, lab, and attendance together.
