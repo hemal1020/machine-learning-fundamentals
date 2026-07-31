@@ -7,7 +7,7 @@ measurements: `fixed_acidity`, `residual_sugar`, `alcohol`, and `density`.
 
 | File | Description |
 |---|---|
-| `svm_wine_quality_improved.ipynb` | Full notebook: EDA, cleaning, preprocessing, model tuning, evaluation |
+| `svm_wine_quality.ipynb` | Full notebook: EDA, cleaning, preprocessing, model tuning, evaluation |
 | `wine_quality_classification.csv` | Source data (1,000 rows, 5 columns) |
 
 ## What changed from the original notebook
