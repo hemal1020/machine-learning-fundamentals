@@ -9,9 +9,6 @@ measurements: `fixed_acidity`, `residual_sugar`, `alcohol`, and `density`.
 |---|---|
 | `svm_wine_quality_improved.ipynb` | Full notebook: EDA, cleaning, preprocessing, model tuning, evaluation |
 | `wine_quality_classification.csv` | Source data (1,000 rows, 5 columns) |
-| `svm_wine_quality_model.joblib` | Trained, tuned SVM (generated when you run the notebook) |
-| `scaler.joblib` | Fitted `StandardScaler` (generated when you run the notebook) |
-| `label_encoder.joblib` | Fitted `LabelEncoder` for the three class labels |
 
 ## What changed from the original notebook
 
