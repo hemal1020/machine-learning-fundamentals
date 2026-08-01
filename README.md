@@ -19,7 +19,7 @@ without checking whether the result is actually good.
 
 | Algorithm | Dataset | Notes |
 |---|---|---|
-| Linear Regression | *(fill in dataset name)* | *(fill in: what you predicted, key takeaway)* |
+| Linear Regression | Salary vs. Years of Experience (30 employees) | R² = 0.902, RMSE ≈ 7,059, MAE ≈ 6,286, confirmed with 5-fold CV since the dataset is small enough that a single split alone is noisy. Fitted line: Salary ≈ 25,322 + 9,424 × YearsExperience. Flagged extrapolation risk beyond the observed 1–10.5 year range. |
 | Multiple Linear Regression | Student Performance (10,000 students) | R² = 0.989, RMSE ≈ 2.02. VIF confirmed no multicollinearity; standardized coefficients showed `Previous Scores` and `Hours Studied` dominate. |
 | Logistic Regression | Student exam pass/fail (1,000 students) | Accuracy 0.86, F1 0.89, ROC-AUC 0.95, 5-fold CV accuracy 0.846. |
 | KNN Classification | Weather condition, 4 classes (141K readings) | k=13 chosen by cross-validation (not an arbitrary k=90). Accuracy 0.728, Macro F1 0.612 — reported alongside accuracy since the classes are imbalanced. |
