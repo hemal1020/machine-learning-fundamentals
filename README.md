@@ -36,6 +36,9 @@ without checking whether the result is actually good.
 machine-learning-fundamentals/
 ├── linear-regression/
 │   └── linear_regression.ipynb
+│   ├── Salary_Data.csv
+│   ├── README.md
+│   └── requirements.txt
 ├── multiple-regression-student-performance/
 │   ├── multiple_regression.ipynb
 │   ├── Student_Performance.csv
