@@ -120,4 +120,4 @@ or how the choice of kernel changes an SVM's decision boundary.
 
 ## Related
 
-- [Phishing SMS Detector (Thesis Project)](https://github.com/hemal1020/Phishing-SMS-Detection-in-Bangladeshi-Mobile-Banking-System.git) — where these fundamentals were applied in a real ensemble system
+- [Phishing SMS Detection in Bangladeshi Mobile Banking System (Thesis Project)](https://github.com/hemal1020/Phishing-SMS-Detection-in-Bangladeshi-Mobile-Banking-System.git) — where these fundamentals were applied in a real ensemble system
