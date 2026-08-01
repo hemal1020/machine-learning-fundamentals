@@ -33,7 +33,7 @@ without checking whether the result is actually good.
 ## Structure
 
 ```
-ml-fundamentals-practice/
+machine-learning-fundamentals/
 ├── linear-regression/
 │   └── linear_regression.ipynb
 ├── multiple-regression-student-performance/
